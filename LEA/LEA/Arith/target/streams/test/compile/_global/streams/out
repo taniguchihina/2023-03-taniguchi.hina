@@ -1,0 +1,25 @@
+[0m[[0m[31merror[0m] [0m[0m/home/kuwakado/Class/2022-SeniorSeminars/Scala/LEA/Arith/src/test/scala/ArithSpec.scala:34:14: value rotr is not a member of Arith[0m
+[0m[[0m[31merror[0m] [0m[0massert(arith.rotr(0x389bbbe6, 20) === 0xbbbe6389)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/kuwakado/Class/2022-SeniorSeminars/Scala/LEA/Arith/src/test/scala/ArithSpec.scala:35:14: value rotr is not a member of Arith[0m
+[0m[[0m[31merror[0m] [0m[0massert(arith.rotr(0xf1d562cc, 10) === 0xb33c7558)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/kuwakado/Class/2022-SeniorSeminars/Scala/LEA/Arith/src/test/scala/ArithSpec.scala:36:14: value rotr is not a member of Arith[0m
+[0m[[0m[31merror[0m] [0m[0massert(arith.rotr(0xa43eaac4,  4) === 0x4a43eaac)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/kuwakado/Class/2022-SeniorSeminars/Scala/LEA/Arith/src/test/scala/ArithSpec.scala:37:14: value rotr is not a member of Arith[0m
+[0m[[0m[31merror[0m] [0m[0massert(arith.rotr(0xac3d0f73, 30) === 0xb0f43dce)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/kuwakado/Class/2022-SeniorSeminars/Scala/LEA/Arith/src/test/scala/ArithSpec.scala:38:14: value rotr is not a member of Arith[0m
+[0m[[0m[31merror[0m] [0m[0massert(arith.rotr(0x5a40f887,  6) === 0x1d6903e2)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/kuwakado/Class/2022-SeniorSeminars/Scala/LEA/Arith/src/test/scala/ArithSpec.scala:39:14: value rotr is not a member of Arith[0m
+[0m[[0m[31merror[0m] [0m[0massert(arith.rotr(0x15185db9, 22) === 0x6176e454)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/kuwakado/Class/2022-SeniorSeminars/Scala/LEA/Arith/src/test/scala/ArithSpec.scala:40:14: value rotr is not a member of Arith[0m
+[0m[[0m[31merror[0m] [0m[0massert(arith.rotr(0xe8cf07d5, 27) === 0x19e0fabd)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/kuwakado/Class/2022-SeniorSeminars/Scala/LEA/Arith/src/test/scala/ArithSpec.scala:41:14: value rotr is not a member of Arith[0m
+[0m[[0m[31merror[0m] [0m[0massert(arith.rotr(0x4d00d640,  3) === 0x09a01ac8)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m8 errors found[0m

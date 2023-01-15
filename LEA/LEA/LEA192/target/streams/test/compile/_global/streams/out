@@ -1,0 +1,49 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\taniguchi hina\Documents\zemi\LEA\LEA\LEA192\src\test\scala\LEA192Spec.scala:10:12: not found: value lea128[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(lea128.rotl(0x5f66dbf6,  4) === 0xf66dbf65)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\taniguchi hina\Documents\zemi\LEA\LEA\LEA192\src\test\scala\LEA192Spec.scala:11:12: not found: value lea128[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(lea128.rotl(0xa0ec1b11, 16) === 0x1b11a0ec)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\taniguchi hina\Documents\zemi\LEA\LEA\LEA192\src\test\scala\LEA192Spec.scala:12:12: not found: value lea128[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(lea128.rotl(0x7fc728e2, 10) === 0x1ca389ff)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\taniguchi hina\Documents\zemi\LEA\LEA\LEA192\src\test\scala\LEA192Spec.scala:13:12: not found: value lea128[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(lea128.rotl(0x9a35afec,  5) === 0x46b5fd93)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\taniguchi hina\Documents\zemi\LEA\LEA\LEA192\src\test\scala\LEA192Spec.scala:14:12: not found: value lea128[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(lea128.rotl(0x9a8da1c5,  7) === 0x46d0e2cd)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\taniguchi hina\Documents\zemi\LEA\LEA\LEA192\src\test\scala\LEA192Spec.scala:15:12: not found: value lea128[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(lea128.rotl(0x36367142, 12) === 0x67142363)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\taniguchi hina\Documents\zemi\LEA\LEA\LEA192\src\test\scala\LEA192Spec.scala:16:12: not found: value lea128[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(lea128.rotl(0x51685abf, 10) === 0xa16afd45)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\taniguchi hina\Documents\zemi\LEA\LEA\LEA192\src\test\scala\LEA192Spec.scala:17:12: not found: value lea128[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(lea128.rotl(0xcbd041bb, 22) === 0x6ef2f410)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\taniguchi hina\Documents\zemi\LEA\LEA\LEA192\src\test\scala\LEA192Spec.scala:22:12: not found: value lea128[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(lea128.rotr(0x95395fe6, 20) === 0x95fe6953)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\taniguchi hina\Documents\zemi\LEA\LEA\LEA192\src\test\scala\LEA192Spec.scala:23:12: not found: value lea128[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(lea128.rotr(0xf3b04aa5, 25) === 0xd82552f9)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\taniguchi hina\Documents\zemi\LEA\LEA\LEA192\src\test\scala\LEA192Spec.scala:24:12: not found: value lea128[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(lea128.rotr(0xb2817563, 30) === 0xca05d58e)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\taniguchi hina\Documents\zemi\LEA\LEA\LEA192\src\test\scala\LEA192Spec.scala:25:12: not found: value lea128[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(lea128.rotr(0xf79322b5, 20) === 0x322b5f79)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\taniguchi hina\Documents\zemi\LEA\LEA\LEA192\src\test\scala\LEA192Spec.scala:26:12: not found: value lea128[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(lea128.rotr(0xcecec4b5, 19) === 0xd896b9d9)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\taniguchi hina\Documents\zemi\LEA\LEA\LEA192\src\test\scala\LEA192Spec.scala:27:12: not found: value lea128[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(lea128.rotr(0xbc6fa4b8,  5) === 0xc5e37d25)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\taniguchi hina\Documents\zemi\LEA\LEA\LEA192\src\test\scala\LEA192Spec.scala:28:12: not found: value lea128[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(lea128.rotr(0x9e5bdeea, 10) === 0xbaa796f7)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\taniguchi hina\Documents\zemi\LEA\LEA\LEA192\src\test\scala\LEA192Spec.scala:29:12: not found: value lea128[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(lea128.rotr(0x69d6d22c, 11) === 0x458d3ada)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m16 errors found[0m

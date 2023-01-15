@@ -1,26 +1,25 @@
 # Overview
 
-ここに、何をするプログラムなのか、を書く。
+This is a program that implements LEA in scala. When executed, it displays the processing time required for encryption and decryption, respectively.
 
 # Requirements
 
-ここに、プログラムをコンパイルや実行するために必要なツール（ソフトウェア、ハードウェア）を書く。
+Scala 2.12.5
+sbt 1.6.2
 
 # Install and Usage
 
-ここに、プログラムのコンパイルの仕方やインストールの仕方を書く。
+Remix-Ethereum IDE  https://github.com/kwdlab/2023-03-taniguchi.hina.git
 
 # Author
 
-ここに、自分の名前を書く。
+Hina Taniguchi
 
 # References
 
-ここに、参照した文献やサイトのURLを書く。
+Scala研修テキスト https://scala-text.github.io/scala_text/
+ISO/IEC 29192-2:2019,Information security — Lightweight cryptography — Part 2: Block ciphers https://www.iso.org/standard/78477.html
 
 # License
 
-ここに、自分のプログラムのライセンスを書く。
-ライセンスは自分で決めてよいですが、誰もが利用できるライセンスにしてください。MIT Licenseを選ぶ学生さんが多いようです。
-
-必要なら、上記以外の項目を追加して、加筆してもかまいません。
+MIT

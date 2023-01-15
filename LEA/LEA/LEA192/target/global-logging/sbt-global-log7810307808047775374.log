@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(ee0d2ae3-7fd1-4a2b-84be-7aa28d0f4c90), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 22 s, completed 2023/01/05 23:42:24[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
